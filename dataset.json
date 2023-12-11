@@ -1,0 +1,118 @@
+[
+	{
+		"Text": "I love this product!",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "This movie is terrible",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "The weather is okay",
+		"Sentiment": "Neutral"
+	},
+	{
+		"Text": "The weather is fine",
+		"Sentiment": "Neutral"
+	},
+	{
+		"Text": "The food is really good",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "I don't like my present",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "The car is ugly",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "I hate like my present",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "I hate her",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "I love my mum",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "bad book",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "The book is bad",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "the book is good",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "Good movie",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "stressful experience",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "awesome experience",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "I like",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "i hate this",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "I'm not coming back",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "Never going back",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "Never doing this again",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "definitely coming back",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "definitely doing this again",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "I'm coming back",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "ugly",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "beautiful",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "cute",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "awesome",
+		"Sentiment": "Positive"
+	},
+	{
+		"Text": "frightful",
+		"Sentiment": "Negative"
+	}
+]
