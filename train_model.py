@@ -8,11 +8,9 @@ from sklearn.model_selection import train_test_split
 
 from text_processing import preprocess_dataframe
 
-
-def train_save_model(data_file, model_store_file):
-    # Load the JSON file into a Python list
-    with open(data_file, 'r') as file:
-        data = json.load(file)
+def train_save_model(data, model_store_file):
+    # Load the JSON data into a Python list
+    # data = json.loads(data) # If data is in JSON format as a string, uncomment this line
 
     # Convert the data to a Pandas DataFrame for easier manipulation
     df = pd.DataFrame(data)
