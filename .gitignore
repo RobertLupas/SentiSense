@@ -1,3 +1,6 @@
+# Trained SentiSense model
+trained_model.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
