@@ -114,5 +114,13 @@
 	{
 		"Text": "frightful",
 		"Sentiment": "Negative"
+	},
+	{
+		"Text": "i can't belive it's this bad!",
+		"Sentiment": "Negative"
+	},
+	{
+		"Text": "I can't do this anymore",
+		"Sentiment": "Negative"
 	}
 ]
