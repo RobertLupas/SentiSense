@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from text_processing import preprocess_dataframe
 from train_model import train_save_model
 
-# Check if the trained model exists
+# Try loading the model, or train a new one
 try:
     with open('trained_model.pkl', 'rb') as model_file:
         model = pickle.load(model_file)
