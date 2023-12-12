@@ -16,8 +16,9 @@ try:
 except FileNotFoundError:
     print("Training model...")
     
-    # Call the function from the train_model module to train and save the model
-    train_save_model('dataset.json', 'trained_model.pkl')
-    # Load the newly trained model
+    # Train and save the model
+    with open('dataset.json', 'r') as file:
+        dataset = json.load(file)
+    train_save_model(dataset, 'trained_model.pkl')
     with open('trained_model.pkl', 'rb') as model_file:
         model = pickle.load(model_file)
